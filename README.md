@@ -22,6 +22,7 @@
 
 ![visualization1](https://github.com/VG-TechCenter/scripts-for-colmap/assets/130300209/9e310d59-9eeb-4372-a37e-b1a26674fa50)
 ![visualization](https://github.com/VG-TechCenter/scripts-for-colmap/assets/130300209/02ae7164-9007-4e9f-ac57-7ee595e53773)
-![visualization2](https://github.com/VG-TechCenter/scripts-for-colmap/assets/130300209/534bb946-c459-46ba-8272-39b70f52f0a4)
+![visualization2](https://github.com/VG-TechCenter/scripts-for-colmap/assets/130300209/534bb946-c459-46ba-8272-39b70f52f0a4)  
+
 同时为了从database文件中读取匹配数量提供`database.py`脚本，其中以几何验证后的匹配信息为例运行  
 
